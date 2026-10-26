@@ -1,0 +1,43 @@
+# 株式会社HAT 商用ソフトウェアライセンス 1.0
+許諾者：株式会社HAT
+
+## 許諾
+有効な個別契約を締結した利用者に、契約で指定した製品・版・期間・法人・利用人数・環境の範囲で、非独占的かつ譲渡不可の実行・複製・配備を許諾します。改変、委託先利用、第三者向けサービス提供、再配布、再許諾は個別契約で明示的に許可した場合に限ります。料金、保守、更新、検収、データ処理、終了時の移行・保持は個別契約に従います。
+個別契約がない場合、本番運用・商用利用・改変配布は許諾されません。公開ソースの評価権は別途評価用ライセンスを明示した場合のみ付与します。
+契約違反時の是正期間・終了手続きは個別契約に従い、終了後は契約で認めた保持・移行を除いて利用を停止します。法令上許される行為を本条件で制限しません。
+
+## 公式バイナリの取得と保管
+個別契約の有無にかかわらず、公式配布元から本製品のバイナリ配布物をダウンロードし、契約の検討又は契約に基づく導入のために保管できます。この取得・保管の許可は、実行、試用、業務利用、改変、再配布、再許諾の許可を含みません。製品の利用には、上記の個別契約による許諾が必要です。第三者の構成物にはその個別条件が適用されます。
+
+## 共通条件
+適用対象は株式会社HATが権利を保有し、または許諾権限を持つ部分に限ります。第三者コード・素材はその個別条件に従います。商標、ロゴ、顧客素材、個人情報、認証情報、登録データの利用権は本条件から付与されません。
+公開・非公開は別途指定されます。Public指定であっても、以下に明示した範囲を超える許諾はありません。GitHub等の公開ホスティングサービス上の閲覧・forkその他利用規約上必要な権利を妨げません。
+本条件はOSSライセンスではありません。適用する版と対象を配布物に明示し、過去に付与したOSS許諾や第三者の権利を遡及的に取り消すものではありません。
+強行法規に反しない範囲で、個別契約に保証を定めない限り現状有姿で提供します。故意・重過失その他法令上免責できない責任を除き、保証・責任範囲は個別契約で定めます。準拠法は日本法とし、裁判管轄は個別契約で指定します。
+本書は2026-10-01作成の正本です。各リポジトリへの適用を明示するまで利用許諾の開始を意味しません。適用時に契約条件と権利帰属を確認してください。
+
+## 言語
+日本語と英語は同じ条件を記述します。解釈に相違がある場合、適用法令で認められる範囲で日本語を優先します。
+
+---
+
+# HAT Commercial Software License 1.0
+Licensor: HAT Inc.
+
+## License grant
+A licensee with a valid individual agreement receives a non-exclusive, non-transferable license to execute, copy, and deploy the specified product and version within the agreed term, legal entities, user counts, and environments. Modification, contractor use, third-party service provision, redistribution, and sublicensing are permitted only when expressly authorized in that agreement. Fees, maintenance, updates, acceptance, data processing, and migration or retention upon termination are governed by that agreement.
+Without an individual agreement, production use, commercial use, and distribution of modifications are not licensed. Evaluation of public source is permitted only if an evaluation license is separately identified.
+Remediation periods and termination procedures follow the individual agreement. After termination, use must cease except for agreed retention or migration. These terms do not restrict acts permitted by law.
+
+## Downloading and retaining official binaries
+Anyone may download official binary distributions of this product from the official distribution source and retain them to consider an agreement or prepare an installation under an agreement. Permission to download and retain a copy does not grant permission to execute, evaluate, use in business, modify, redistribute, or sublicense the product. Product use requires the individual license agreement described above. Third-party components remain governed by their respective terms.
+
+## Common terms
+These terms apply only to portions owned by HAT Inc. or for which HAT Inc. has licensing authority. Third-party code and materials remain subject to their respective terms. These terms grant no rights to trademarks, logos, customer materials, personal information, credentials, or registration data.
+Public or private visibility is specified separately. Public visibility does not grant permissions beyond those expressly stated. These terms do not restrict viewing, forking, or other rights required by the terms of a public hosting service such as GitHub.
+These terms are not an open-source license. Distributions must identify the applicable version and covered materials. These terms do not retroactively revoke previously granted open-source permissions or third-party rights.
+To the extent permitted by mandatory law, the materials are provided as is unless an individual agreement provides warranties. Warranty and liability provisions are specified in the individual agreement, excluding intentional misconduct, gross negligence, and other liabilities that cannot legally be excluded. Japanese law governs; jurisdiction is specified in the individual agreement.
+This is the canonical text established on 2026-10-01. It does not commence a license grant until its application to the relevant repository or materials is expressly identified. Contract terms and ownership must be verified when applying it.
+
+## Language
+The Japanese and English texts describe the same terms. If their interpretations differ, the Japanese text prevails to the extent permitted by applicable law.
